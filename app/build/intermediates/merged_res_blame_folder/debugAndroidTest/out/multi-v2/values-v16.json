@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.dogglers.test.app-mergeDebugAndroidTestResources-24:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rpmag\\.gradle\\caches\\transforms-3\\cf3bd5984c85af018f40ca29c1039b0c\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rpmag\\.gradle\\caches\\transforms-3\\26bc885d516d824959f72869c06cbc07\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

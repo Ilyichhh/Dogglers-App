@@ -1,0 +1,400 @@
+06-06 12:24:47.987 17900 17928 I TestRunner: started: vertical_scrolling(com.example.dogglers.GridListTests)
+06-06 12:24:47.998 17900 17928 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-06 12:24:48.023   843   902 D SplashScreenView: Build android.window.SplashScreenView{ecc045e V.E...... ......ID 0,0-0,0}
+06-06 12:24:48.023   843   902 D SplashScreenView: Icon: view: null drawable: null size: 0
+06-06 12:24:48.023   843   902 D SplashScreenView: Branding: view: android.view.View{4e6b03f G.ED..... ......I. 0,0-0,0 #10204a6 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+06-06 12:24:48.044   547   557 I system_server: NativeAlloc concurrent copying GC freed 85002(3516KB) AllocSpace objects, 7(172KB) LOS objects, 49% free, 20MB/41MB, paused 517us,125us total 709.493ms
+06-06 12:24:48.049   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec9a4000]
+06-06 12:24:48.063   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ee1c7000 0x3eeb6b000]
+06-06 12:24:48.070   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3eeb6b000 0x3ef50f000]
+06-06 12:24:48.101 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: PRE_ON_CREATE
+06-06 12:24:48.101 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:48.113 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: CREATED
+06-06 12:24:48.113 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:48.115 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: STARTED
+06-06 12:24:48.116 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:48.129 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: RESUMED
+06-06 12:24:48.129 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:48.131 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: PAUSED
+06-06 12:24:48.131 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:48.150 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: PRE_ON_CREATE
+06-06 12:24:48.151 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-06 12:24:48.174  2386  2386 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+06-06 12:24:48.174  2386  2386 E HwDetectorWithState: a: 3
+06-06 12:24:48.177 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: CREATED
+06-06 12:24:48.177 17900 17900 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.GridListActivity@650dc22
+06-06 12:24:48.180 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: STARTED
+06-06 12:24:48.181 17900 17900 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.GridListActivity@650dc22
+06-06 12:24:48.185 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: RESUMED
+06-06 12:24:48.185 17900 17900 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.GridListActivity@650dc22
+06-06 12:24:48.219   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ef50f000 0x3efeb3000]
+06-06 12:24:48.226   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3f5348000 0x3f5cec000]
+06-06 12:24:48.230   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3f5cec000 0x3f6690000]
+06-06 12:24:48.252  1191 17609 V NativeCrypto: Read error: ssl=0x784613c21dd8: I/O error during system call, Connection reset by peer
+06-06 12:24:48.271  1191 17609 V NativeCrypto: SSL shutdown failed: ssl=0x784613c21dd8: I/O error during system call, Broken pipe
+06-06 12:24:48.298  1191 17609 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+06-06 12:24:48.298  1191 17609 W WakeLock: GCM_HB_ALARM counter does not exist
+06-06 12:24:48.314   547   776 D ConnectivityService: reportNetworkConnectivity(100, false) by 10100
+06-06 12:24:48.348 17900 17900 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+06-06 12:24:48.359   547   586 I ActivityTaskManager: Displayed com.example.dogglers/.GridListActivity: +337ms
+06-06 12:24:48.385  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+06-06 12:24:48.385  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+06-06 12:24:48.396   326 18040 D resolv  : GetAddrInfoHandler::run: {100 786532 100 983140 10100 0}
+06-06 12:24:48.400  1546  1546 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+06-06 12:24:48.409   326 18040 D resolv  : resolv_getaddrinfo: explore_fqdn(): ai_family=0 ai_socktype=1 ai_protocol=6
+06-06 12:24:48.448 17900 17900 I ViewInteraction: Performing 'fast swipe' action on view view.getId() is <2131230933/com.example.dogglers:id/grid_recycler_view>
+06-06 12:24:48.452   326 18042 D resolv  : doQuery: (1, 1)
+06-06 12:24:48.452   326 18041 D resolv  : doQuery: (1, 28)
+06-06 12:24:48.453   326 18042 D resolv  : res_nmkquery: (QUERY, IN, A)
+06-06 12:24:48.458   326 18041 D resolv  : res_nmkquery: (QUERY, IN, AAAA)
+06-06 12:24:48.458   326 18041 D resolv  : res_nsend
+06-06 12:24:48.459   326 18041 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.461   326 18041 I resolv  : resolv_cache_lookup: NOT IN CACHE (STALE ENTRY 0x7e3da2455390DISCARDED)
+06-06 12:24:48.461   326 18041 I resolv  : _cache_remove_p: entry 162 removed (count=55)
+06-06 12:24:48.461   326 18042 D resolv  : res_nsend
+06-06 12:24:48.461   326 18042 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.366   995  2133 D NetworkMonitor/100: Forcing reevaluation for UID 10100. Dns signal count: 0
+06-06 12:24:48.470   326 18041 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.470   326 18042 I resolv  : resolv_cache_lookup: NOT IN CACHE (STALE ENTRY 0x7e3da2456a50DISCARDED)
+06-06 12:24:48.470   326 18042 I resolv  : _cache_remove_p: entry 161 removed (count=54)
+06-06 12:24:48.470   326 18042 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.470   326 18041 I resolv  : res_stats_usable_server: NS stats: S 64 + E 0 + T 0 + I 0 = 64, rtt = 32, min_samples = 8
+06-06 12:24:48.471   326 18041 I resolv  : res_stats_usable_server: success rate 100
+06-06 12:24:48.475   326 18041 D resolv  : res_nsend: Querying server (# 1) address = 10.0.2.3:53
+06-06 12:24:48.478   326 18042 I resolv  : res_stats_usable_server: NS stats: S 64 + E 0 + T 0 + I 0 = 64, rtt = 32, min_samples = 8
+06-06 12:24:48.478   326 18042 I resolv  : res_stats_usable_server: success rate 100
+06-06 12:24:48.479   326 18042 D resolv  : res_nsend: Querying server (# 1) address = 10.0.2.3:53
+06-06 12:24:48.507   326 18041 D resolv  : send_dg: new DG socket
+06-06 12:24:48.511   326 18042 D resolv  : send_dg: new DG socket
+06-06 12:24:48.523   326 18042 I resolv  : get_timeout: using timeout of 5000 msec
+06-06 12:24:48.528 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: STOPPED
+06-06 12:24:48.528 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:48.534   326 18041 I resolv  : get_timeout: using timeout of 5000 msec
+06-06 12:24:48.536   326 18041 I resolv  : retrying_poll: 56 retrying_poll
+06-06 12:24:48.540   326 18042 I resolv  : retrying_poll: 57 retrying_poll
+06-06 12:24:48.558   326 18042 I resolv  : retrying_poll: 57 retrying_poll returning 1
+06-06 12:24:48.559   326 18042 I resolv  : res_nsend: used send_dg 79 terrno: 0
+06-06 12:24:48.559   326 18042 I resolv  : res_stats_set_sample: rcode = 0, sec = 19
+06-06 12:24:48.559   326 18042 I resolv  : res_cache_add_stats_sample_locked: adding sample to stats, next = 40, count = 64
+06-06 12:24:48.560   326 18042 D resolv  : res_nsend: got answer:
+06-06 12:24:48.560   326 18042 I resolv  : answer_getTTL: TTL = 300
+06-06 12:24:48.560   326 18042 I resolv  : _cache_add_p: entry 167 added (count=55)
+06-06 12:24:48.561   326 18042 I resolv  : cache_dump_mru_locked: MRU LIST (55):  167 165 166 163 164 160 159 158 157 152 151 150 40 149 148 147 146 139 138 131 130 129 128 104 103 102 101 81 80 65 64 21 50 52 51 31 32 35 36 48 47 38 37 34 33 19 20 27 28 8 7 18 17 10 9
+06-06 12:24:48.561   326 18042 D resolv  : doQuery: rcode=0, ancount=2
+06-06 12:24:48.567   326 18041 I resolv  : retrying_poll: 56 retrying_poll returning 1
+06-06 12:24:48.567   326 18041 I resolv  : res_nsend: used send_dg 91 terrno: 0
+06-06 12:24:48.567   326 18041 I resolv  : res_stats_set_sample: rcode = 0, sec = 31
+06-06 12:24:48.567   326 18041 I resolv  : res_cache_add_stats_sample_locked: adding sample to stats, next = 41, count = 64
+06-06 12:24:48.567   326 18041 D resolv  : res_nsend: got answer:
+06-06 12:24:48.568   326 18041 I resolv  : answer_getTTL: TTL = 267
+06-06 12:24:48.568   326 18041 I resolv  : _cache_add_p: entry 168 added (count=56)
+06-06 12:24:48.568   326 18041 I resolv  : cache_dump_mru_locked: MRU LIST (56):  168 167 165 166 163 164 160 159 158 157 152 151 150 40 149 148 147 146 139 138 131 130 129 128 104 103 102 101 81 80 65 64 21 50 52 51 31 32 35 36 48 47 38 37 34 33 19 20 27 28 8 7 18 17 10 9
+06-06 12:24:48.568   326 18041 D resolv  : doQuery: rcode=0, ancount=2
+06-06 12:24:48.662   547  1420 W InputManager-JNI: Input channel object '75ea631 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+06-06 12:24:48.692 17900 17900 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10146; state: ENABLED
+06-06 12:24:48.695  1191 18039 I NetworkManagementSocketTagger: tagSocketFd(-1, 536871943, -1) failed with errno-9
+06-06 12:24:48.748 17900 17900 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+06-06 12:24:48.748 17900 17900 E ViewAssertions: '(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)' check could not be performed because view 'an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"' was not found.
+06-06 12:24:48.770   326 18047 D resolv  : ResNSendHandler::run: 0 / {100 983140 100 983140 1073 1}
+06-06 12:24:48.772   326 18046 D resolv  : ResNSendHandler::run: 0 / {100 983140 100 983140 1073 1}
+06-06 12:24:48.778   326 18047 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.778   326 18047 D resolv  : res_nsend
+06-06 12:24:48.778   326 18047 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.778   326 18047 I resolv  : resolv_cache_lookup: NOT IN CACHE (STALE ENTRY 0x7e3d9244e5d0DISCARDED)
+06-06 12:24:48.778   326 18047 I resolv  : _cache_remove_p: entry 164 removed (count=55)
+06-06 12:24:48.778   326 18047 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.778   326 18047 I resolv  : res_stats_usable_server: NS stats: S 64 + E 0 + T 0 + I 0 = 64, rtt = 32, min_samples = 8
+06-06 12:24:48.778   326 18047 I resolv  : res_stats_usable_server: success rate 100
+06-06 12:24:48.781   326 18046 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.781   326 18046 D resolv  : res_nsend
+06-06 12:24:48.781   326 18046 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.781   326 18046 I resolv  : resolv_cache_lookup: NOT IN CACHE (STALE ENTRY 0x7e3da24550f0DISCARDED)
+06-06 12:24:48.785   326 18046 I resolv  : _cache_remove_p: entry 166 removed (count=54)
+06-06 12:24:48.785   326 18046 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.786   326 18046 I resolv  : res_stats_usable_server: NS stats: S 64 + E 0 + T 0 + I 0 = 64, rtt = 32, min_samples = 8
+06-06 12:24:48.786   326 18047 D resolv  : res_nsend: Querying server (# 1) address = 10.0.2.3:53
+06-06 12:24:48.786   326 18046 I resolv  : res_stats_usable_server: success rate 100
+06-06 12:24:48.787   326 18046 D resolv  : res_nsend: Querying server (# 1) address = 10.0.2.3:53
+06-06 12:24:48.788   326 18046 D resolv  : send_dg: new DG socket
+06-06 12:24:48.789   326 18047 D resolv  : send_dg: new DG socket
+06-06 12:24:48.790   326 18049 D resolv  : ResNSendHandler::run: 0 / {100 983140 100 983140 1073 1}
+06-06 12:24:48.792   326 18049 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.792   326 18049 D resolv  : res_nsend
+06-06 12:24:48.792   326 18049 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.792   326 18049 I resolv  : resolv_cache_lookup: NOT IN CACHE (STALE ENTRY 0x7e3d82451400DISCARDED)
+06-06 12:24:48.792   326 18049 I resolv  : _cache_remove_p: entry 163 removed (count=53)
+06-06 12:24:48.792   326 18049 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.792   326 18049 I resolv  : res_stats_usable_server: NS stats: S 64 + E 0 + T 0 + I 0 = 64, rtt = 32, min_samples = 8
+06-06 12:24:48.792   326 18049 I resolv  : res_stats_usable_server: success rate 100
+06-06 12:24:48.792   326 18049 D resolv  : res_nsend: Querying server (# 1) address = 10.0.2.3:53
+06-06 12:24:48.795   326 18047 I resolv  : get_timeout: using timeout of 5000 msec
+06-06 12:24:48.796   326 18048 D resolv  : ResNSendHandler::run: 0 / {100 983140 100 983140 1073 1}
+06-06 12:24:48.798   326 18046 I resolv  : get_timeout: using timeout of 5000 msec
+06-06 12:24:48.798   326 18048 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.798   326 18046 I resolv  : retrying_poll: 59 retrying_poll
+06-06 12:24:48.798   326 18048 D resolv  : res_nsend
+06-06 12:24:48.799   326 18048 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.802   326 18047 I resolv  : retrying_poll: 60 retrying_poll
+06-06 12:24:48.802   326 18048 I resolv  : resolv_cache_lookup: NOT IN CACHE (STALE ENTRY 0x7e3da2456890DISCARDED)
+06-06 12:24:48.806   326 18048 I resolv  : _cache_remove_p: entry 165 removed (count=52)
+06-06 12:24:48.811   326 18048 I resolv  : resolv_populate_res_for_net: netid=100
+06-06 12:24:48.812   326 18048 I resolv  : res_stats_usable_server: NS stats: S 64 + E 0 + T 0 + I 0 = 64, rtt = 32, min_samples = 8
+06-06 12:24:48.815   326 18048 I resolv  : res_stats_usable_server: success rate 100
+06-06 12:24:48.815   326 18048 D resolv  : res_nsend: Querying server (# 1) address = 10.0.2.3:53
+06-06 12:24:48.817   326 18048 D resolv  : send_dg: new DG socket
+06-06 12:24:48.817   326 18048 I resolv  : get_timeout: using timeout of 5000 msec
+06-06 12:24:48.820   326 18048 I resolv  : retrying_poll: 62 retrying_poll
+06-06 12:24:48.822   326 18049 D resolv  : send_dg: new DG socket
+06-06 12:24:48.823   326 18049 I resolv  : get_timeout: using timeout of 5000 msec
+06-06 12:24:48.826   326 18048 I resolv  : retrying_poll: 62 retrying_poll returning 1
+06-06 12:24:48.826   326 18048 I resolv  : res_nsend: used send_dg 63 terrno: 0
+06-06 12:24:48.826   326 18048 I resolv  : res_stats_set_sample: rcode = 0, sec = 6
+06-06 12:24:48.826   326 18048 I resolv  : res_cache_add_stats_sample_locked: adding sample to stats, next = 42, count = 64
+06-06 12:24:48.826   326 18048 D resolv  : res_nsend: got answer:
+06-06 12:24:48.826   326 18048 I resolv  : answer_getTTL: TTL = 220
+06-06 12:24:48.826   326 18048 I resolv  : _cache_add_p: entry 169 added (count=53)
+06-06 12:24:48.826   326 18048 I resolv  : cache_dump_mru_locked: MRU LIST (53):  169 168 167 160 159 158 157 152 151 150 40 149 148 147 146 139 138 131 130 129 128 104 103 102 101 81 80 65 64 21 50 52 51 31 32 35 36 48 47 38 37 34 33 19 20 27 28 8 7 18 17 10 9
+06-06 12:24:48.828   326 18047 I resolv  : retrying_poll: 60 retrying_poll returning 1
+06-06 12:24:48.828   326 18047 I resolv  : res_nsend: used send_dg 60 terrno: 0
+06-06 12:24:48.828   326 18047 I resolv  : res_stats_set_sample: rcode = 0, sec = 26
+06-06 12:24:48.830   326 18046 I resolv  : retrying_poll: 59 retrying_poll returning 1
+06-06 12:24:48.830   326 18046 I resolv  : res_nsend: used send_dg 75 terrno: 0
+06-06 12:24:48.830   326 18046 I resolv  : res_stats_set_sample: rcode = 0, sec = 32
+06-06 12:24:48.831   326 18047 I resolv  : res_cache_add_stats_sample_locked: adding sample to stats, next = 43, count = 64
+06-06 12:24:48.831   326 18046 I resolv  : res_cache_add_stats_sample_locked: adding sample to stats, next = 44, count = 64
+06-06 12:24:48.831   326 18047 D resolv  : res_nsend: got answer:
+06-06 12:24:48.831   326 18046 D resolv  : res_nsend: got answer:
+06-06 12:24:48.831   326 18047 I resolv  : answer_getTTL: TTL = 134
+06-06 12:24:48.832   326 18047 I resolv  : _cache_add_p: entry 170 added (count=54)
+06-06 12:24:48.832   326 18047 I resolv  : cache_dump_mru_locked: MRU LIST (54):  170 169 168 167 160 159 158 157 152 151 150 40 149 148 147 146 139 138 131 130 129 128 104 103 102 101 81 80 65 64 21 50 52 51 31 32 35 36 48 47 38 37 34 33 19 20 27 28 8 7 18 17 10 9
+06-06 12:24:48.832   326 18046 I resolv  : answer_getTTL: TTL = 195
+06-06 12:24:48.832   326 18046 I resolv  : _cache_add_p: entry 171 added (count=55)
+06-06 12:24:48.833   326 18046 I resolv  : cache_dump_mru_locked: MRU LIST (55):  171 170 169 168 167 160 159 158 157 152 151 150 40 149 148 147 146 139 138 131 130 129 128 104 103 102 101 81 80 65 64 21 50 52 51 31 32 35 36 48 47 38 37 34 33 19 20 27 28 8 7 18 17 10 9
+06-06 12:24:48.835   326 18049 I resolv  : retrying_poll: 61 retrying_poll
+06-06 12:24:48.835   326 18049 I resolv  : retrying_poll: 61 retrying_poll returning 1
+06-06 12:24:48.835   326 18049 I resolv  : res_nsend: used send_dg 48 terrno: 0
+06-06 12:24:48.835   326 18049 I resolv  : res_stats_set_sample: rcode = 0, sec = 0
+06-06 12:24:48.835   326 18049 I resolv  : res_cache_add_stats_sample_locked: adding sample to stats, next = 45, count = 64
+06-06 12:24:48.835   326 18049 D resolv  : res_nsend: got answer:
+06-06 12:24:48.835   326 18049 I resolv  : answer_getTTL: TTL = 103
+06-06 12:24:48.835   326 18049 I resolv  : _cache_add_p: entry 172 added (count=56)
+06-06 12:24:48.835   326 18049 I resolv  : cache_dump_mru_locked: MRU LIST (56):  172 171 170 169 168 167 160 159 158 157 152 151 150 40 149 148 147 146 139 138 131 130 129 128 104 103 102 101 81 80 65 64 21 50 52 51 31 32 35 36 48 47 38 37 34 33 19 20 27 28 8 7 18 17 10 9
+06-06 12:24:48.872   995 18045 D NetworkMonitor/100: PROBE_DNS connectivitycheck.gstatic.com 129ms OK 142.250.66.99,2404:6800:4005:81c::2003
+06-06 12:24:48.895   995 18044 D NetworkMonitor/100: PROBE_DNS www.google.com 140ms OK 172.217.25.4,2404:6800:4005:802::2004
+06-06 12:24:48.907   326 18050 D resolv  : GetAddrInfoHandler::run: {100 983140 100 983140 1073 1}
+06-06 12:24:48.908   326 18050 D resolv  : resolv_getaddrinfo: explore_fqdn(): ai_family=0 ai_socktype=1 ai_protocol=6
+06-06 12:24:48.910   326 18051 D resolv  : doQuery: (1, 28)
+06-06 12:24:48.910   326 18051 D resolv  : res_nmkquery: (QUERY, IN, AAAA)
+06-06 12:24:48.911   326 18051 D resolv  : res_nsend
+06-06 12:24:48.912   326 18052 D resolv  : doQuery: (1, 1)
+06-06 12:24:48.912   326 18052 D resolv  : res_nmkquery: (QUERY, IN, A)
+06-06 12:24:48.912   326 18052 D resolv  : res_nsend
+06-06 12:24:48.913   326 18052 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.913   326 18052 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x7e3da2456890
+06-06 12:24:48.913   326 18052 D resolv  : doQuery: rcode=0, ancount=1
+06-06 12:24:48.911   326 18051 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.914   326 18051 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x7e3da24550f0
+06-06 12:24:48.914   326 18051 D resolv  : doQuery: rcode=0, ancount=1
+06-06 12:24:48.920   326 18053 D resolv  : GetAddrInfoHandler::run: {100 983140 100 983140 1073 1}
+06-06 12:24:48.921   326 18053 D resolv  : resolv_getaddrinfo: explore_fqdn(): ai_family=0 ai_socktype=1 ai_protocol=6
+06-06 12:24:48.926   326 18055 D resolv  : doQuery: (1, 1)
+06-06 12:24:48.926   326 18055 D resolv  : res_nmkquery: (QUERY, IN, A)
+06-06 12:24:48.928   326 18054 D resolv  : doQuery: (1, 28)
+06-06 12:24:48.928   326 18054 D resolv  : res_nmkquery: (QUERY, IN, AAAA)
+06-06 12:24:48.928   326 18054 D resolv  : res_nsend
+06-06 12:24:48.928   326 18054 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.929   326 18054 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x7e3d9244e5d0
+06-06 12:24:48.929   326 18054 D resolv  : doQuery: rcode=0, ancount=1
+06-06 12:24:48.927   326 18055 D resolv  : res_nsend
+06-06 12:24:48.932   326 18055 I resolv  : resolv_cache_lookup: lookup
+06-06 12:24:48.932   326 18055 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0x7e3d82451400
+06-06 12:24:48.932   326 18055 D resolv  : doQuery: rcode=0, ancount=1
+06-06 12:24:49.069   995 18045 D NetworkMonitor/100: PROBE_HTTP http://connectivitycheck.gstatic.com/generate_204 time=166ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Connection=[close], Content-Length=[0], Date=[Mon, 06 Jun 2022 14:06:28 GMT], X-Android-Received-Millis=[1654518289068], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1654518289003]}
+06-06 12:24:49.136 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: PAUSED
+06-06 12:24:49.136 17900 17900 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.GridListActivity@650dc22
+06-06 12:24:49.150 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: PRE_ON_CREATE
+06-06 12:24:49.150 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.156 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: CREATED
+06-06 12:24:49.158 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.160 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: STARTED
+06-06 12:24:49.160 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.164 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: RESUMED
+06-06 12:24:49.165 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.199   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec9a4000]
+06-06 12:24:49.202   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ee1c7000 0x3eeb6b000]
+06-06 12:24:49.204   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3eeb6b000 0x3ef50f000]
+06-06 12:24:49.232   547   586 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +100ms
+06-06 12:24:49.260   995 18044 D NetworkMonitor/100: PROBE_HTTPS https://www.google.com/generate_204 time=357ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Alt-Svc=[h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"], Connection=[close], Content-Length=[0], Date=[Mon, 06 Jun 2022 14:06:28 GMT], X-Android-Received-Millis=[1654518289255], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1654518289187]}
+06-06 12:24:49.264 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: STOPPED
+06-06 12:24:49.264 17900 17900 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.GridListActivity@650dc22
+06-06 12:24:49.265 17900 17900 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@650dc22 in: DESTROYED
+06-06 12:24:49.265 17900 17900 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-06 12:24:49.269   995 18043 D NetworkMonitor/100: isCaptivePortal: isSuccessful()=true isPortal()=false RedirectUrl=null isPartialConnectivity()=false Time=547ms
+06-06 12:24:49.277   547   776 D ConnectivityService: [100 WIFI] validation passed
+06-06 12:24:49.279   547  2336 W InputManager-JNI: Input channel object '1afa84c com.example.dogglers/com.example.dogglers.GridListActivity (client)' was disposed without first being removed with the input manager!
+06-06 12:24:49.287  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+06-06 12:24:49.287  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+06-06 12:24:49.288  1546  1546 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+06-06 12:24:49.288 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: PAUSED
+06-06 12:24:49.288 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.301 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258 in: DESTROYED
+06-06 12:24:49.301 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@d641258
+06-06 12:24:49.316 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1 in: PRE_ON_CREATE
+06-06 12:24:49.316 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1
+06-06 12:24:49.320 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1 in: CREATED
+06-06 12:24:49.320 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1
+06-06 12:24:49.321 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1 in: STARTED
+06-06 12:24:49.321 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1
+06-06 12:24:49.331 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1 in: RESUMED
+06-06 12:24:49.331 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1
+06-06 12:24:49.349   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ef50f000 0x3efeb3000]
+06-06 12:24:49.353   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3f1edc000 0x3f2880000]
+06-06 12:24:49.357   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3f2880000 0x3f3224000]
+06-06 12:24:49.382   547   586 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +135ms
+06-06 12:24:49.388 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: STOPPED
+06-06 12:24:49.390 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.402   340   441 D goldfish-address-space: claimShared: Ask to claim region [0x3ee1c7000 0x3ee7f3000]
+06-06 12:24:49.418 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3 in: DESTROYED
+06-06 12:24:49.418 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ae545c3
+06-06 12:24:49.419   547  1420 W InputManager-JNI: Input channel object '8be6bf1 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+06-06 12:24:49.444 17900 17900 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1 in: PAUSED
+06-06 12:24:49.444 17900 17900 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@37e66b1
+06-06 12:24:49.461 17900 17928 E TestRunner: failed: vertical_scrolling(com.example.dogglers.GridListTests)
+06-06 12:24:49.461 17900 17928 E TestRunner: ----- begin exception -----
+06-06 12:24:49.463 17900 17928 E TestRunner: androidx.test.espresso.NoMatchingViewException: No views in hierarchy found matching: an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Bella"
+06-06 12:24:49.463 17900 17928 E TestRunner:
+06-06 12:24:49.463 17900 17928 E TestRunner: View Hierarchy:
+06-06 12:24:49.463 17900 17928 E TestRunner: +>DecorView{id=-1, visibility=VISIBLE, width=1080, height=2340, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params={(0,0)(fillxfill) ty=BASE_APPLICATION wanim=0x10302fe
+06-06 12:24:49.463 17900 17928 E TestRunner:   fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+06-06 12:24:49.463 17900 17928 E TestRunner:   pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND FIT_INSETS_CONTROLLED
+06-06 12:24:49.463 17900 17928 E TestRunner:   bhv=DEFAULT
+06-06 12:24:49.463 17900 17928 E TestRunner:   fitSides=}, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +->LinearLayout{id=-1, visibility=VISIBLE, width=1080, height=2208, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@76116aa, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +-->ViewStub{id=16908720, res-name=action_mode_bar_stub, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@abaa29b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +-->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=2063, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.LinearLayout$LayoutParams@c500611, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=145.0, child-count=1}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +--->ActionBarOverlayLayout{id=2131230866, res-name=decor_content_parent, visibility=VISIBLE, width=1080, height=2063, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@659ede4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +---->ContentFrameLayout{id=16908290, res-name=content, visibility=VISIBLE, width=1080, height=1909, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@a21d102, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=154.0, child-count=1}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +----->FrameLayout{id=-1, visibility=VISIBLE, width=1080, height=1909, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@aba0450, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=1}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.463 17900 17928 E TestRunner: +------>RecyclerView{id=2131230933, res-name=grid_recycler_view, visibility=VISIBLE, width=1080, height=1909, has-focus=false, has-focusable=true, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d447e5a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=5}
+06-06 12:24:49.463 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.GridLayoutManager$LayoutParams@1ea0d68, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=-931.0, is-checked=false, child-count=1}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@c9d08bd, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=image_view, visibility=VISIBLE, width=496, height=534, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6b47eb2, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231194, res-name=tv_name, visibility=VISIBLE, width=139, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@9205e03, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=556.0, text=Snow, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231192, res-name=tv_age, visibility=VISIBLE, width=133, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@8bf2180, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=674.0, text=Age: 2, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231193, res-name=tv_hobbies, visibility=VISIBLE, width=452, height=111, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@e9673b9, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=777.0, text=Hobbies: Playing in the snow, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.GridLayoutManager$LayoutParams@e40d75f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=562.0, y=-931.0, is-checked=false, child-count=1}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=496, height=858, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@76fa098, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=image_view, visibility=VISIBLE, width=496, height=534, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@b05e0f1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231194, res-name=tv_name, visibility=VISIBLE, width=122, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@77064d6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=556.0, text=Jake, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231192, res-name=tv_age, visibility=VISIBLE, width=133, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d185357, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=674.0, text=Age: 1, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231193, res-name=tv_hobbies, visibility=VISIBLE, width=452, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@90a2e44, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=777.0, text=Hobbies: Surfing, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.GridLayoutManager$LayoutParams@7e5f862, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=23.0, is-checked=false, child-count=1}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8f4564f, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=image_view, visibility=VISIBLE, width=496, height=534, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@26f01dc, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231194, res-name=tv_name, visibility=VISIBLE, width=120, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@7fd02e5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=556.0, text=Oreo, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231192, res-name=tv_age, visibility=VISIBLE, width=133, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@fba31ba, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=674.0, text=Age: 1, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231193, res-name=tv_hobbies, visibility=VISIBLE, width=452, height=111, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d4a086b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=777.0, text=Hobbies: Playing tennis, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.GridLayoutManager$LayoutParams@9ffe861, tag=null, root-is-layout-requested=false, has-input-connection=false, x=562.0, y=23.0, is-checked=false, child-count=1}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=496, height=858, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@9013e12, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=image_view, visibility=VISIBLE, width=496, height=534, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@a5d19e3, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231194, res-name=tv_name, visibility=VISIBLE, width=129, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@195fe0, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=556.0, text=Rollo, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231192, res-name=tv_age, visibility=VISIBLE, width=133, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@d444299, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=674.0, text=Age: 4, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.464 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231193, res-name=tv_hobbies, visibility=VISIBLE, width=452, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@db1295e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=777.0, text=Hobbies: Reading, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.464 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +------->MaterialCardView{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.recyclerview.widget.GridLayoutManager$LayoutParams@de49a0c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=977.0, is-checked=false, child-count=1}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +-------->ConstraintLayout{id=-1, visibility=VISIBLE, width=496, height=910, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@e02abd1, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=4}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +--------->AppCompatImageView{id=2131230952, res-name=image_view, visibility=VISIBLE, width=496, height=534, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@c230636, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231194, res-name=tv_name, visibility=VISIBLE, width=158, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@a924937, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=556.0, text=Chase, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231192, res-name=tv_age, visibility=VISIBLE, width=133, height=59, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@a221ea4, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=674.0, text=Age: 3, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +--------->MaterialTextView{id=2131231193, res-name=tv_hobbies, visibility=VISIBLE, width=452, height=111, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@cb5340d, tag=null, root-is-layout-requested=false, has-input-connection=false, x=22.0, y=777.0, text=Hobbies: Playing frisbee, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +---->ActionBarContainer{id=2131230774, res-name=action_bar_container, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.ActionBarOverlayLayout$LayoutParams@fb48110, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=2}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +----->Toolbar{id=2131230772, res-name=action_bar, visibility=VISIBLE, width=1080, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@3c89e3c, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=3}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +------>AppCompatTextView{id=-1, visibility=VISIBLE, width=225, height=74, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b09d7c5, tag=null, root-is-layout-requested=false, has-input-connection=false, x=198.0, y=40.0, text=Dogglers, input-type=0, ime-target=false, has-links=false}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +------>AppCompatImageButton{id=-1, desc=Navigate up, visibility=VISIBLE, width=154, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=true, is-enabled=true, is-focused=false, is-focusable=true, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@a4d151a, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +------>ActionMenuView{id=-1, visibility=VISIBLE, width=0, height=154, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.appcompat.widget.Toolbar$LayoutParams@b5c184b, tag=null, root-is-layout-requested=false, has-input-connection=false, x=1080.0, y=0.0, child-count=0}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +----->ActionBarContextView{id=2131230780, res-name=action_context_bar, visibility=GONE, width=0, height=0, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=true, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@a9f6228, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0, child-count=0}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +->View{id=16908336, res-name=navigationBarBackground, visibility=VISIBLE, width=1080, height=132, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@8b52b41, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=2208.0}
+06-06 12:24:49.465 17900 17928 E TestRunner: |
+06-06 12:24:49.465 17900 17928 E TestRunner: +->View{id=16908335, res-name=statusBarBackground, visibility=VISIBLE, width=1080, height=145, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.FrameLayout$LayoutParams@d9768e6, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1724)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:8)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at com.example.dogglers.GridListTests.vertical_scrolling(GridListTests.kt:61)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+06-06 12:24:49.465 17900 17928 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2248)
+06-06 12:24:49.465 17900 17928 E TestRunner: ----- end exception -----
+06-06 12:24:49.466 17900 17928 I TestRunner: finished: vertical_scrolling(com.example.dogglers.GridListTests)
